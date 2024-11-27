@@ -1,6 +1,6 @@
 ## Hi 👋, I'm David
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidanduezaferro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/david-andueza-ferro-39644332a)
 [![Email](https://img.shields.io/badge/-Email-ff4500?style=for-the-badge&logo=gmail)](mailto:dandueza7@gmail.com)
 
 ---
@@ -36,5 +36,5 @@
 ---
 
 ## 🎯 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [your-email@gmail.com](mailto:dandueza7@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/david-andueza-ferro-39644332a)
+- 📧 [dandueza7@gmail.com](mailto:dandueza7@gmail.com)
