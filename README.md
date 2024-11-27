@@ -8,7 +8,7 @@
 ## 🌟 About Me 
 
 - 👨‍💻 **Developer:** Full Stack.
-- 🧠 **Skills:** JavaScript, Python, C++, c#, c, Node.js, SQL, NoSQL, Java, Git, HTML, CSS, VisualBasic, PowerShell, TypeScript.
+- 🧠 **Skills:** JavaScript, Python, C++, C#, C, Node.js, SQL, NoSQL, Java, Git, HTML, CSS, VisualBasic, PowerShell, TypeScript.
 - 🌍 **Languages:** English, Spanish.
 - 🌱 **Currently Learning:** DevOps, Artificial Intelligence, Rust.
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,net,cs,js,ts,nodejs,python,java,html,css,figma,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,net,cs,cpp,bootstrap,js,ts,nodejs,python,java,html,css,figma,git,unity,kotlin,flutter&theme=light" />
 </div>
 
 ---
