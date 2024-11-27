@@ -1,6 +1,6 @@
 ## Hi 👋, I'm David
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=dandu35&theme=rose"/>
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandu35&layout=compact&theme=rose"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dandu35&theme=rose"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandu35&layout=compact&theme=rose"/>
 <!--
 **Dandu35/Dandu35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
