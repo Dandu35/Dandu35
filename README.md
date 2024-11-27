@@ -1,6 +1,6 @@
 ## Hi 👋, I'm David
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidanduezaferro)
 [![Email](https://img.shields.io/badge/-Email-ff4500?style=for-the-badge&logo=gmail)](mailto:dandueza7@gmail.com)
 
 ---
