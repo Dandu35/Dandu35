@@ -7,10 +7,9 @@
 
 ## 🌟 About Me 
 
-- 👨‍💻 **Developer:** Full Stack.
-- 🧠 **Skills:** JavaScript, Python, C++, C#, C, Node.js, SQL, NoSQL, Java, Git, HTML, CSS, VisualBasic, PowerShell, TypeScript.
-- 🌍 **Languages:** English, Spanish.
-- 🌱 **Currently Learning:** DevOps, Artificial Intelligence, Rust.
+💻 **Role:** Junior Software Developer & IT Systems Specialist
+🎓 **Education:** Higher Vocational Degree in Multiplatform Application Development (DAM) & SMR
+💼 **Current Job:** IT Support Technician at Helphone (Dedicated to Cinfa)
 
 ---
 
@@ -22,9 +21,10 @@
 ---
 
 ## 📊 GitHub Stats
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dandu35&theme=rose"/> 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandu35&layout=compact&theme=rose"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dandu35&show_icons=true&theme=dark" alt="David's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu35&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ## 🌍 Featured Projects
