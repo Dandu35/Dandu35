@@ -21,10 +21,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dandu35&show_icons=true&theme=dark" alt="David's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu35&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dandu35&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu35&layout=compact&theme=dark)
 ---
 
 ## 🌍 Featured Projects
