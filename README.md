@@ -20,12 +20,11 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dandu35&show_icons=true&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dandu35&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu35&layout=compact&theme=dark)
----
+![Top Languages](https://github-readme-stats-git-masterrstme-anuraghazra1.vercel.app/api/top-langs/?username=Dandu35&layout=compact&theme=dark)
 
 ## 🌍 Featured Projects
 ### 🖥️ VideoGame
